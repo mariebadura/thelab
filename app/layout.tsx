@@ -17,11 +17,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.siteUrl),
-  title: "The Lab — the app that finds the money your company owes you",
+  title: "The Lab — the expense tracker that doesn't leave money on the table",
   description:
     "For UK solopreneurs: snap a purchase and learn if it's claimable, get nudged about allowances you're missing, and get a year-end prepared from your own data — reviewed by an accountant. Join the waitlist.",
   openGraph: {
-    title: "The Lab — the app that finds the money your company owes you",
+    title: "The Lab — the expense tracker that doesn't leave money on the table",
     description:
       "Snap a purchase and learn if it's claimable, get nudged about allowances you're missing, and get an accountant-reviewed year-end from your own data. Join the waitlist for early access.",
     url: "/",

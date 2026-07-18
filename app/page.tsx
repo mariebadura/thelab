@@ -58,7 +58,7 @@ export default function Home() {
           <div>
             <p className="font-heading text-2xl font-semibold text-coral">In the lab currently //</p>
             <h1 className="mt-8 text-4xl font-semibold leading-tight tracking-tight sm:text-5xl">
-              Your company owes you money you&apos;re not claiming.
+              The expense tracker that doesn&apos;t leave money on the table.
             </h1>
             <p className="mt-5 max-w-xl text-lg leading-8 text-muted">
               The app for solopreneurs that makes sure you&apos;re not missing out.
