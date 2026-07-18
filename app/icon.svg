@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Brand mark: lab flask on the coral→pink→grape gradient from globals.css -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4845f"/>
+      <stop offset="0.5" stop-color="#e879a0"/>
+      <stop offset="1" stop-color="#9b5de5"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <rect x="24.5" y="11" width="15" height="4.5" rx="2.25" fill="#ffffff"/>
+  <path
+    d="M28.75 17.5 h6.5 v8.6 l9.1 15.9 a6.4 6.4 0 0 1 -5.55 9.6 h-13.6 a6.4 6.4 0 0 1 -5.55 -9.6 l9.1 -15.9 z"
+    fill="#ffffff"/>
+  <circle cx="28" cy="42.5" r="2.2" fill="#e879a0"/>
+  <circle cx="35.5" cy="46.5" r="1.6" fill="#9b5de5"/>
+  <circle cx="33" cy="38" r="1.3" fill="#f4845f"/>
+</svg>

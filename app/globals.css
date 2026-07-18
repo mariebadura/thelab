@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* Design system — mirrors HelperApp/theme.js */
+@theme {
+  --color-coral: #f4845f;
+  --color-pink: #e879a0;
+  --color-grape: #9b5de5;
+  --color-ink: #111111;
+  --color-muted: #6b7280;
+  --color-screen: #f9fafb;
+  --color-card: #ffffff;
+  --color-line: #e5e7eb;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-destructive: #ef4444;
+
+  --font-heading: var(--font-sora);
+  --font-body: var(--font-inter);
+
+  --radius-card: 12px;
+}
+
+/* The brand is deliberately light-only: calm white cards around money talk. */
+body {
+  background: var(--color-screen);
+  color: var(--color-ink);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
