@@ -58,7 +58,7 @@ export default function WaitlistForm() {
           required
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          placeholder="you@example.com"
+          placeholder="you@superstar.co.uk"
           className="h-11 min-w-0 flex-1 appearance-none rounded-[8px] border-0 bg-transparent px-3.5 text-base text-ink outline-none placeholder:text-muted"
         />
         <input
